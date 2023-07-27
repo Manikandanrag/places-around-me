@@ -232,7 +232,7 @@ A hotel is a commercial establishment that provides lodging, meals, and other se
 </html>
 ```
 ## Output:
-![map](./static/image/map.jpg)
+![map](map.jpeg)
 ![park](./park.png)
 ![mahal](./mahal.png)
 ![college](./college.png)
