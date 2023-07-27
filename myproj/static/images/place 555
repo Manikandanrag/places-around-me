@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+
+<html lang="en">
+
+<head>
+
+<title>my city</title>
+
+</head>
+
+<body>
+
+<body bgcolor="cyan">
+
+<h1 align="center">
+
+<font color="red"><b>thirupattur</b></font>
+
+</h1>
+
+<h3 align="center">
+
+<font color="blue"><b>Prem Kumar (23003614)</b></font>
+
+</h3>
+
+<center>
+
+<img src="/static/images/map.png" usemap="#MyCity" height="420" width="1100">
+
+<map name="MyCity">
+
+<area alt="" title="marwa" href="static/html/marwa.html" shape="rect" coords="827,368,877,418"><area alt="" title="hotelhills" href="static/html/hotelhills.html" shape="rect" coords="750,644,790,684"><area alt="" title="sacredheartcollege" href="static/html/sacredheartcollege.html" shape="rect" coords="925,262,965,300"><area alt="" title="srickccinemas" href="static/html/srickccinemas.html" shape="rect" coords="954,683,994,717">
+
+</map>
+
+</center>
+
+</body>
+
+</html>
